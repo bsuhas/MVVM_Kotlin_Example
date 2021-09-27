@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM Kotlin Example</string>
+    <string name="comments">Comments</string>
+    <string name="issue_detail_screen">Issue Detail Screen</string>
+</resources>
